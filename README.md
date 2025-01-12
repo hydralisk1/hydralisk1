@@ -3,8 +3,6 @@
 
 As a full stack software developer, I have enjoyed using Javascript, React/Redux, Express.js, and Python Flask. I'm always finding time to learn more!
 
-* 🌍  I'm based in Phoenix, AZ
-* ✉️  You can contact me at [bartholomaeuskim@gmail.com](mailto:bartholomaeuskim@gmail.com)
 <!-- * 🧠  I'm learning Next.js and golang -->
 
 <a href="https://www.github.com/hydralisk1" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/hydralisk1?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
