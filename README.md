@@ -1,4 +1,3 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joonil Kim! 
 ## Full-Stack Web Application Developer
 
 As a full stack software developer, I have enjoyed using Javascript, React/Redux, Express.js, and Python Flask. I'm always finding time to learn more!
